@@ -103,7 +103,7 @@ Here are some operators you should know, there is no need to limit these operato
 > As a result of this query, there will be intel and yahoos stock price related results.
 
 
-**imagesize:widthxheight**-> You can search in images for images with better resolutions.
+**imagesize:widthxheight**-> You can search for images with better resolutions.
 
 ---
 ### Github Advanced Search
